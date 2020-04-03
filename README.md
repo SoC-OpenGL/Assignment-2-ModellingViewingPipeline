@@ -1,4 +1,4 @@
-# Assignment-1-Rendering Pipeline and Rasterization
+# Assignment-2-Modelling Viewing Pipeline and Phong Shading
 <h4>In this assignment you will learn the basics of rasterization. This will be an individual assignment and will require each one of you to submit their own file</h4>
 <ol>
 	<li> Read the basics of the viewing transformations from <a href="https://www.cse.iitb.ac.in/~paragc/teaching/2019/cs475/lectures/04_transformations_1.pdf"> here</a>, <a href="https://www.cse.iitb.ac.in/~paragc/teaching/2019/cs475/lectures/05_transformations_2.pdf"> here </a> and <a href="https://www.cse.iitb.ac.in/~paragc/teaching/2019/cs475/lectures/06_viewing_1.pdf"> here </a> </li>
