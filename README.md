@@ -12,7 +12,7 @@
 </ol>
 <h4> Assignment instructions: </h4>
 <ol>
-	<li> Accept the <a href="https://classroom.github.com/a/F0jQQ8fj">invitation</a> to the assignment repository
+	<li> Accept the <a href="https://classroom.github.com/a/kt5apszA">invitation</a> to the assignment repository
 	<li> Clone the repo in your machine by using command "git clone (repo link)"
 	<li> Push all changes to your copy of the assignment repo
 	<li> <b> The deadline is 11:55 PM, 10 April, 2020 </b>
